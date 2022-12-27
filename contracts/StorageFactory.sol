@@ -7,7 +7,6 @@ import "./SimpleStorage.sol";
 // One file can hold multiple contracts 
 // New contract initiation from another contract uses new keyword
 
-
 contract StorageFactory {
     SimpleStorage[] public simpleStorageArray;
 
